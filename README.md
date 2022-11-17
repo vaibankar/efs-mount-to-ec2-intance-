@@ -3,7 +3,7 @@ add security group NFS port(2049)
 connect the intance by ssh 
 apt update 
 apt install nfs* -y or (nfs_comman)
-mkdir /efs
+create folder mkdir /efs
 go to amazon efs service 
 create filesystem configer all the step 
 select your file system 
